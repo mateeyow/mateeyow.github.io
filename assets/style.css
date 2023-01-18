@@ -289,6 +289,7 @@ form button {
   padding: 18px 12px;
   border-radius: 20px;
   font-size: 1.25rem;
+  cursor: pointer;
 }
 
 footer {
